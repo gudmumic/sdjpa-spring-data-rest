@@ -1,4 +1,4 @@
-package guru.springframework.sfgrestbrewery;
+package com.gudmumic.spring.data;
 
 
 import org.junit.jupiter.api.Test;

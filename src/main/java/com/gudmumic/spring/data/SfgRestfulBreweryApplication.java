@@ -1,4 +1,4 @@
-package guru.springframework.sfgrestbrewery;
+package com.gudmumic.spring.data;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
